@@ -1,7 +1,7 @@
 # Hola, soy Kevin 👋
 
 Desarrollador de software jr. enfocado en **backend, full-stack e IA aplicada**.
-Egresado de Ingeniería en Sistemas Computacionales (TecNM – Instituto Tecnológico de Villahermosa).
+Estudiante de Ingeniería en Sistemas Computacionales (TecNM – Instituto Tecnológico de Villahermosa), en etapa final: residencia profesional hasta diciembre de 2026.
 Reubicándome a Monterrey, N.L.
 
 ### Proyectos
